@@ -1,0 +1,28 @@
+
+.nav_bg{
+    background-image: linear-gradient(90deg,rgb(155, 237, 171),rgb(181, 243, 219));
+
+}
+.loginpage{
+    background-image: linear-gradient(180deg,rgb(253, 251, 251),rgb(206, 234, 223));
+}
+.Reg{
+    background-image: linear-gradient(180deg,rgb(255, 249, 249),rgb(194, 243, 223));
+}
+
+input{
+    border: none;
+    outline: none;
+    background:none;
+}
+.input1{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.userreg{
+    text-decoration: none;
+}
+.userpen{
+    font-size: 400%;
+    color: rgb(120, 206, 221);
+}
